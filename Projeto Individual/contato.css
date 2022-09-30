@@ -1,0 +1,39 @@
+header{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+body{
+background-image: url(./img/makebetter.png);
+background-size: cover;
+}
+
+#início{
+height: 30px;
+width: 99px;
+background-color: white;
+margin-top: 75px;
+margin-left: 900px;
+}
+
+#hobbies{
+height: 30px;
+width: 99px;
+background-color: white;
+margin-top: 50;
+}
+
+#sobre{
+height: 30px;
+width: 99px;
+background-color: white;
+margin-top: 50px;
+}
+
+#contato{
+height: 30px;
+width: 99px;
+background-color: white;
+margin-top: 50px;
+}
+
